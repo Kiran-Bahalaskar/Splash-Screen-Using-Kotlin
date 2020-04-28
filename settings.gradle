@@ -1,0 +1,2 @@
+rootProject.name='Splash Screen Using Kotlin'
+include ':app'
